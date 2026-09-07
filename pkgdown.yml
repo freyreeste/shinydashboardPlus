@@ -1,5 +1,5 @@
-pandoc: 2.7.3
-pkgdown: 2.0.1
+pandoc: 3.8.3
+pkgdown: 2.2.1
 pkgdown_sha: ~
 articles:
   box-elements: box-elements.html
@@ -10,5 +10,4 @@ articles:
   improved-boxes: improved-boxes.html
   more-skins: more-skins.html
   shinydashboardPlus: shinydashboardPlus.html
-last_built: 2022-01-12T11:05Z
-
+last_built: 2026-09-07T12:53Z
